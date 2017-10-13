@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2015\Projects\SPSample\SPSample\bin\Debug\SPSiteSample.exe.config
+c:\users\user\documents\visual studio 2015\Projects\SPSample\SPSample\bin\Debug\SPSiteSample.exe
+c:\users\user\documents\visual studio 2015\Projects\SPSample\SPSample\bin\Debug\SPSiteSample.pdb
+c:\users\user\documents\visual studio 2015\Projects\SPSample\SPSample\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2015\Projects\SPSample\SPSample\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2015\Projects\SPSample\SPSample\obj\Debug\SPSiteSample_MarkupCompile.cache
+c:\users\user\documents\visual studio 2015\Projects\SPSample\SPSample\obj\Debug\SPSiteSample_MarkupCompile.lref
+c:\users\user\documents\visual studio 2015\Projects\SPSample\SPSample\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2015\Projects\SPSample\SPSample\obj\Debug\SPSiteSample.g.resources
+c:\users\user\documents\visual studio 2015\Projects\SPSample\SPSample\obj\Debug\SPSample.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\SPSample\SPSample\obj\Debug\SPSiteSample.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\SPSample\SPSample\obj\Debug\SPSiteSample.exe
+c:\users\user\documents\visual studio 2015\Projects\SPSample\SPSample\obj\Debug\SPSiteSample.pdb

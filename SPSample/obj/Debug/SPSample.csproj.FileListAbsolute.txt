@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2015\Projects\SPSample\SPSample\bin\Debug\SPSample.exe.config
+c:\users\user\documents\visual studio 2015\Projects\SPSample\SPSample\bin\Debug\SPSample.exe
+c:\users\user\documents\visual studio 2015\Projects\SPSample\SPSample\bin\Debug\SPSample.pdb
+c:\users\user\documents\visual studio 2015\Projects\SPSample\SPSample\obj\Debug\SPSample.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\SPSample\SPSample\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2015\Projects\SPSample\SPSample\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2015\Projects\SPSample\SPSample\obj\Debug\SPSample_MarkupCompile.cache
+c:\users\user\documents\visual studio 2015\Projects\SPSample\SPSample\obj\Debug\SPSample_MarkupCompile.lref
+c:\users\user\documents\visual studio 2015\Projects\SPSample\SPSample\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2015\Projects\SPSample\SPSample\obj\Debug\SPSample.g.resources
+c:\users\user\documents\visual studio 2015\Projects\SPSample\SPSample\obj\Debug\SPSample.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\SPSample\SPSample\obj\Debug\SPSample.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\SPSample\SPSample\obj\Debug\SPSample.exe
+c:\users\user\documents\visual studio 2015\Projects\SPSample\SPSample\obj\Debug\SPSample.pdb
